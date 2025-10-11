@@ -58,9 +58,8 @@ This project uses only Python's built-in libraries, so no special installation i
 
 The project consists of two main files:
 
-.
-├── pro_tracker.py              # The main Python script containing all the application logic and GUI.
-└── attendance_pro_data.json    # The data file that is automatically created to store your subjects and settings.
+* pro_tracker.py              # The main Python script containing all the application logic and GUI.
+* attendance_pro_data.json    # The data file that is automatically created to store your subjects and settings.
 
 ---
 
@@ -82,4 +81,5 @@ Contributions, issues, and feature requests are welcome! Feel free to fork the r
 ## 📜 License
 
 This project is licensed under the MIT License. See the `LICENSE` file for details.
+
 
