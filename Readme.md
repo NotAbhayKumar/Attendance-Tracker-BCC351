@@ -2,8 +2,6 @@
 
 A modern, easy-to-use desktop application built with Python to help students track their class attendance and stay above their academic goals. Never guess your attendance percentage again!
 
-This project was created for B.Tech CS students to manage the common requirement of maintaining a certain attendance percentage (e.g., 75% at AKTU).
-
 
 
 ---
@@ -84,3 +82,4 @@ Contributions, issues, and feature requests are welcome! Feel free to fork the r
 ## 📜 License
 
 This project is licensed under the MIT License. See the `LICENSE` file for details.
+
